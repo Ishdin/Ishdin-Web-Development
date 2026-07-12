@@ -1,1 +1,1 @@
-Here we learn about the basics of HRML and CSS language 
+Here we learn about the basics of HTML and CSS language 
